@@ -1,0 +1,14 @@
+
+"""
+Proyecto de prueba para GitHub
+Autor: Paola Aguilar Maydana
+Descripción: Script simple para validar uso de repositorio GitHub
+"""
+
+def main():
+    print("Hola GitHub 👋")
+    print("Este es un proyecto de prueba para control de versiones.")
+    print("Repositorio creado con fines de aprendizaje y validación.")
+
+if __name__ == "__main__":
+    main()
