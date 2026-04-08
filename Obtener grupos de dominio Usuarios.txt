@@ -1,0 +1,3 @@
+
+
+Get-Content "D:\GetDominio\GW.txt" | Get-ADUser -Prop memberof - Filter (name -like "GW*") | Select name, memberof
